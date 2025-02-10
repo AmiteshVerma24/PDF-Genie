@@ -1,4 +1,4 @@
-# 📄 Chat with Your PDF
+# 📄 PDF-Genie
 
 ## Overview
 This project is a **PDF Reader with an LLM-powered chatbot** that allows users to upload a PDF and interact with its content using natural language queries. It leverages **Ollama** to run open-source LLMs locally, and utilizes **LangChain**, **Streamlit**, and **ChromaDB** for embedding storage and retrieval-augmented generation (RAG).
