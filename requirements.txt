@@ -1,0 +1,10 @@
+streamlit
+langchain
+PyPDF2
+ollama
+chromadb
+fitz
+pymupdf
+langchain_ollama
+langchain_community
+langchain_core
