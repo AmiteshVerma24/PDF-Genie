@@ -43,6 +43,7 @@ streamlit run main.py
 
 ---
 ## Images
+
 ![Sample Output - 1](./images/Sample_Output_1.png)
 ![Sample Output - 2](./images/Sample_Output_2.png)
 ![Reference PDF](./images/Reference_PDF.png)
