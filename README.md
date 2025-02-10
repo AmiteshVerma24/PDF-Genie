@@ -21,8 +21,8 @@ This project is a **PDF Reader with an LLM-powered chatbot** that allows users t
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-repo/chat-with-pdf.git
-cd chat-with-pdf
+git clone https://github.com/AmiteshVerma24/PDF-Genie.git
+cd PDF-Genie
 ```
 
 ### 2️⃣ Install dependencies
